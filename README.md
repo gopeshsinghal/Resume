@@ -1,1 +1,1 @@
-[Resume](Gopesh_Resume.pdf)
+[embed]http://example.com/file.pdf[/embed]
